@@ -2,6 +2,7 @@
 
 This project is a **FastAPI** application that tracks currency exchange rates and compares the current day's rates with the previous day's rates for a list of currencies.
 
+
 ## Endpoint
 Here is the deployed endpoint.
 https://zqzsrqthyl7zgrqyob2dnoaapq0qpiua.lambda-url.eu-north-1.on.aws/rates/compare
@@ -34,8 +35,8 @@ App is deployed on AWS Lambda
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AliZar708/ali-zar-assesment
-   cd ali-zar-assesment
+   git clone https://github.com/AliZar708/ali-zar-assesment](https://github.com/AliZar708/compare-rates.git
+   cd compare-rates
 
 2. Install dependencies:
 pip install -r requirements.txt
