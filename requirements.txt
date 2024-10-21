@@ -1,0 +1,11 @@
+fastapi
+fastapi-cli
+mangum
+mysql-connector-python
+numpy
+pandas
+python-dotenv
+uvicorn
+
+
+
