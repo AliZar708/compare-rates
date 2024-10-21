@@ -20,9 +20,7 @@ App is deployed on AWS Lambda
 
 1. [Installation](#installation)
 2. [API Endpoints](#api-endpoints)
-3. [Error Handling](#error-handling)
-4. [Logging](#logging)
-5. [Testing](#testing)
+3. [Testing](#testing)
 
 ---
 
@@ -85,7 +83,7 @@ uvicorn app:app --reload
     ]
 }
 ```
-## Running Tests
+## Testing
 
 This project includes unit tests for testing the FastAPI endpoints. The tests are written using `pytest` and can be run using the following steps:
 
